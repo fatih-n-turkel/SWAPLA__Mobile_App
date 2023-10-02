@@ -1,5 +1,7 @@
 # Swapla
 
+This project is a shopping application frontend project.
+
 A new Flutter project.
 
 ## Getting Started
