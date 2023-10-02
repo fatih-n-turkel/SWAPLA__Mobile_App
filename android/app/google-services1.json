@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "863289356590",
+    "project_id": "swapla-deneme-1",
+    "storage_bucket": "swapla-deneme-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863289356590:android:bd5a2168747f9ff8bf8abf",
+        "android_client_info": {
+          "package_name": "com.example.takasla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863289356590-g316fn2uk8uebvh5m8e2r7qnkukr9p2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn0Ard2STuel18lCGguZfRwSvkuN0mxKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863289356590-g316fn2uk8uebvh5m8e2r7qnkukr9p2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
