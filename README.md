@@ -2,6 +2,8 @@
 
 This project is a shopping application frontend project.
 
+VIDEO: https://www.youtube.com/watch?v=gThiWnxCU0o
+
 A new Flutter project.
 
 ## Getting Started
